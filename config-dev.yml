@@ -1,5 +1,5 @@
 config:
   profile: i'm dev
   said:
-    first: Hello
-    second: Config Server
+    first: Config Server
+    second: I'm 강이경 

@@ -2,7 +2,7 @@ config:
   profile: i'm dev
   said:
     first: rabbit
-    second: mq 연결되랏!!!
+    second: mq 연결되랏!!!1111
 
 spring:
     rabbitmq:

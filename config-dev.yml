@@ -1,8 +1,8 @@
 config:
   profile: i'm dev
   said:
-    first: 왜 안바뀌냐꼬
-    second: 바껴랏 호잇!! 제발
+    first: rabbit
+    second: mq
 
 spring:
     rabbitmq:

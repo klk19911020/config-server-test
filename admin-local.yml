@@ -1,8 +1,8 @@
 config:
-  profile: i'm dev
+  profile: i'm local
   said:
-    first: client
-    second: dev
+    first: admin
+    second: local
 
 spring:
     rabbitmq:

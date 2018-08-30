@@ -2,7 +2,7 @@ config:
   profile: i'm dev
   said:
     first: rabbit
-    second: mq 
+    second: mq 111111111
 
 spring:
     rabbitmq:
